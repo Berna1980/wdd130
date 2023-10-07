@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+}
+
+div {
+    max-width: 1600px;
+    height: 725px;
+    margin: 0 auto;
+    background-color: rgb(180, 176, 230);
+}
+
+body {
+    background-color: #4e2929; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    background-color: rgb(31, 26, 26);
+}
+nav a:hover {
+    background-color: black;
+    color: #8a7d6d;
+}  
+
+.icon {
+    width: 80px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}  
+footer p {
+    font-size: 1.5em;
+}  
+footer p a:hover {
+    text-decoration: underline;
+} 
+
+                
