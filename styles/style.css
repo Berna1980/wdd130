@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,400;1,500&display=swap');
+
+div {
+    max-width: 1600px;
+    margin: 0 auto;
+    background-color: rgb(180, 176, 230);
+}
+
+header {
+    text-align: left;
+    background-color:rgba(197, 128, 214, 0.7);
+}
+nav a:hover {
+    background-color: black;
+}  
+.icon {
+    width: 80px;
+}
+#hero-img {
+    width: 100%;
+} 
+footer p {
+    text-decoration: none;
+    font-size: 1.2em;
+    text-align: left;
+}  
+footer p a:hover {
+    text-decoration: underline;
+    text-align: left;
+} 
+
+.msg {
+    background-color: #3b2b75;
+    text-align: center;
+}
+
+body {
+    background-color: #fcfbfb;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 5px;
+    height: 725px;
+    text-align: center;
+}
+h2 {
+    margin: 0;
+    text-align: center;
+    font-size: 24px; 
+    line-height: 1.2;
+}
+
+nav a {
+    color: #fcfbfb;
+    text-decoration: none;
+    padding: 10px 20px;
+    text-align: left;
+   
+}
+ 
+.book,
+.join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    width: 80px;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 5px;;
+}
+
+.book:hover, 
+.join:hover {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-size: 18px;
+    padding: 5px 10px;
+    margin-top: 0;
+    border-radius: 5px;
+}
+.card-img {
+    border: 10px none;
+}
+
+                                                               
+                            
+
+                
