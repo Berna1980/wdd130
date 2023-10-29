@@ -80,7 +80,7 @@ footer p a:hover {
 }
 .msg p {
     padding-bottom: 15px;
-    font-size: 8em;
+    font-size: 2em;
 }
 .mountains {
     width: 100%;
@@ -90,8 +90,8 @@ footer p a:hover {
 }
 body {
     background-color: #fcfbfb;
-    font-family: Raleway, Arial, sans-serif;
-    font-size: 22px;
+    font-family: 'Brush Script MT', Garamond, sans-serif;
+    font-size: 10px;
     margin: 0;
     padding: 0;
 }
