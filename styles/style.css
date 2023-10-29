@@ -76,6 +76,7 @@ footer p a:hover {
     padding: 35px;
     grid-column: 6/10;
     grid-row: 6/7;
+    font-size: 2em;
     box-shadow: 5px 5px 10px #6f7364;
 }
 .msg p {
