@@ -86,12 +86,6 @@ footer p a:hover {
     font-size: 8em;
 }
 
-.mountains {
-    width: 100%;
-    grid-column: 2/7;
-    grid-row: 5/8;
-    box-shadow: 5px 5px 10px #6f7364;
-}
 body {
     background-color: #fcfbfb;
     font-family: 'Brush Script MT', Garamond, sans-serif;
@@ -162,6 +156,8 @@ nav a {
     width: 100%;
     border: 10px solid #d9c2a3;
     transition: transform .5s;
+    grid-column: 2/7;
+    grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
 }
 .card-img:hover {
