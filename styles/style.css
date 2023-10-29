@@ -91,7 +91,7 @@ footer p a:hover {
 body {
     background-color: #fcfbfb;
     font-family: 'Brush Script MT', Garamond, sans-serif;
-    font-size: 22px;
+    font-size: 10px;
     margin: 0;
     padding: 0;
 }
@@ -122,7 +122,7 @@ nav a {
     margin: 200px 0;
     grid-column: 5/7; 
     grid-row: 2/3; 
-    
+
 }
 .rapids-card {
     margin: 200px 0;
