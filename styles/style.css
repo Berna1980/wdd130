@@ -79,7 +79,7 @@ footer p a:hover {
 }
 .msg p {
     padding-bottom: 15px;
-    font-size: 6em;
+    font-size: 8em;
 }
 .mountains {
     width: 100%;
@@ -98,7 +98,7 @@ body {
 h2 {
     margin: 0;
     text-align: center;
-    font-size: 10px; 
+    font-size: 22px; 
     line-height: 1.2;
 }
 #logo_link {
