@@ -79,7 +79,7 @@ footer p a:hover {
 }
 .msg p {
     padding-bottom: 15px;
-    font-size: 5em;
+    font-size: 8em;
 }
 .mountains {
     width: 100%;
@@ -132,7 +132,6 @@ nav a {
 #background {
     grid-column: 1/11; 
     grid-row: 4/9;
-    height: 725px; 
 }
 
 .book,
