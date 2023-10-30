@@ -76,11 +76,11 @@ footer p a:hover {
     box-shadow: 5px 5px 10px #6f7364;
     text-align: center;
     line-height: 1.5em;
-    font-size: 5px;
+    font-size: 8em;
 }
 .msg p {
     padding-bottom: 15px;
-    font-size: 7em;
+    font-size: 5em;
 }
 .mountains {
     width: 100%;
